@@ -10,3 +10,5 @@ git add
 git comit
 git push
 ```
+
+## Github에서 추가한 내용
